@@ -107,20 +107,12 @@ h3, h4 {
     border-color: #eb5a1e;
 }
 
-.cart-item {
-
-}
-
 .cart-item__top {
 	display: flex;
 	align-items: flex-start;
 	padding-bottom: 15px;
 	border-bottom: 1px solid #dee2e6;
 	margin-bottom: 15px;
-}
-
-.cart-item__img  {
-
 }
 
 .cart-item__img img {
@@ -162,10 +154,6 @@ h3, h4 {
 .cart-total {
 	font-size: 18px;
 	font-weight: 500;
-}
-
-.delivery-cost {
-
 }
 
 .free {
