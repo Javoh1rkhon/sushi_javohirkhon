@@ -30,8 +30,8 @@ function totalCalc() {
 
   console.log(deliveryCost);
 
-  if (total < "600") {
-    deliveryCost.innerText = "300₽"
+  if (total < "50.000") {
+    deliveryCost.innerText = "15.000"
   } else {
     deliveryCost.innerText = "бесплатно"
   }
